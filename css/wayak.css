@@ -1,0 +1,77 @@
+nav img {
+    height: 50px;
+
+}
+
+.nav-link {
+    color: blue;
+    font-size: larger !important;
+    margin: 20px;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container .page .image {
+    width: 600px;
+}
+
+.container .page .text {
+    margin-top: 100px;
+}
+
+.container .page .text b {
+    color: rgb(15, 15, 160);
+}
+
+.container .page .text p {
+    font-size: 20px;
+}
+
+.container .page .text .slogan {
+    width: 150px;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: rgba(15, 15, 160, 0.034);
+    background-color: rgb(15, 15, 160);
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 20px;
+}
+
+.slogan-text {
+
+    font-weight: bold;
+}
+
+.wayak-logo {
+    width: 50%;
+}
+
+footer {
+    background-color: #f8f8f8;
+    padding: 30px;
+    font-size: 14px;
+    color: #666;
+}
+
+footer h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+footer p {
+    margin-bottom: 20px; 
+}
+.image_study{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
